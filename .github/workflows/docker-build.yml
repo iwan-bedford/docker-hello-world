@@ -7,7 +7,7 @@ on:
 
 jobs:
   docker:
-    runs-on: default
+#     runs-on: default
     steps:
       -
         name: Set up QEMU
